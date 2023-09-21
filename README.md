@@ -22,7 +22,7 @@ and SIFT keypoint extraction. The dataset contains a total of 800000 pairs of cr
 
 
 ### Other supplements
-To view the experimental benchmark based on this data set, please view our paper "Feature Interaction Learning Network for Cross-Spectral Image Patch Matching" [[link](https://ieeexplore.ieee.org/document/10251126)] published on TIP. It is worth noting that the epochs of all methods in this experimental benchmark are set to 40.
+To view the experimental benchmark based on this data set, please view our paper "Feature Interaction Learning Network for Cross-Spectral Image Patch Matching" [[link](https://ieeexplore.ieee.org/document/10251126)] published on *IEEE Transactions on Image Processing*. It is worth noting that the epochs of all methods in this experimental benchmark are set to 40.
 
 
 
